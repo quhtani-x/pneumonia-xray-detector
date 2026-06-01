@@ -1,7 +1,9 @@
 import tensorflow as tf
 from tensorflow.keras import layers, models
 
-# PNEUMONIA DETECTOR from chest X-rays.
+# DISCLAIMER ,most of the comments has been added by Ai as my code didnt have much comments and i told the Ai to explain the code , also remove dead commented code
+
+
 # a convolutional neural network that looks at a chest x-ray and says whether it
 # shows pneumonia or a normal lung. trained from scratch on grayscale x-rays.
 #
